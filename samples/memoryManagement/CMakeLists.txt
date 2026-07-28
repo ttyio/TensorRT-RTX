@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: Copyright (c) 2025-2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
 # SPDX-License-Identifier: Apache-2.0
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,6 +14,6 @@
 # limitations under the License.
 
 cmake_minimum_required(VERSION 3.17)
-project(TensorRT_RTX_samples LANGUAGES CXX CUDA)
+project(TensorRT_RTX_MemoryManagement LANGUAGES CXX)
 
 add_subdirectory(cpp)
